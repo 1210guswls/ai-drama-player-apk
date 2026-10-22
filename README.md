@@ -27,3 +27,9 @@ GitHub 읽기 권한, OpenRouter 개인 키, ChatGPT의 GitHub 연결은 별개�
 [SHA-256](https://github.com/1210guswls/ai-drama-player-apk/releases/latest/download/nightstory-latest.apk.sha256)
 
 패키지·서명·버전·허용 링크·크기·SHA-256 검증 후 설치합니다. 같은 서명의 전용 QA/debug 빌드를 사용합니다.
+
+## 주요 화면
+
+[서재·재생·보관함·설정·캐릭터 목록·메신저 스크린샷 6장 보기](screenshots/0.5.0/README.md)
+
+실기기에서 개인 계정 없는 QA 앱으로 캡처했습니다. 대화는 로컬 Mock 예시입니다.
